@@ -1,0 +1,2 @@
+# typeScripNotes
+tutorials for typescript 
